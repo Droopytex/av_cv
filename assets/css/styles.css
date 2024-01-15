@@ -59,18 +59,19 @@
   font-weight: 300;
   display: flex;
   text-align: center;
-  font-size: 14px;
+  font-size: 10px;
 }
 
 .img_footer {
-  width: 83px;
-  height: 73px;
+  width: 63px;
+  height: 53px;
 }
 
 /* main portafolio */
 main {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .cards {
